@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @doctorpsycho
+- 👋 Hi! I'm Fahaad. You can call me by my nickname D.P.
 - 👀 I’m interested in computers and coding, anime, games, memes and various other fun stuff.
-- 🌱 I’m currently learning web development.
+- 🌱 I might be unavailable without updates, but I'll do my best to be consitent
 - 💞️ I'll be soon holding various unique and fun contests along with prizes.
 - 📫 Reach me on following email elvev13@gmail.com
-- 📫 For twitter follow me @Farhaad_Bukhari, For instagram follow me @doct0r_psycho
+- 📫 For twitter follow me @Farhaad_Bukhari, For instagram follow me @Faarhaad_Bukhari
 - 👀 Keep visiting for exciting events.
 
 <!---
