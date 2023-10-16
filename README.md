@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @doctorpsycho
 - 👀 I’m interested in computers and coding.
-- 🌱 I’m currently learning web development.
-- 💞️ I’m looking to collaborate on projects
+- 🌱 I’m currently learning web development, anime, memes and various other fun stuff.
+- 💞️ I'll be soon holding various unique and fun contests along with prizes.
 - 📫 Reach me on following email elvev13@gmail.com
+- 📫 For twitter follow me @Farhaad_Bukhari, For instagram follow me @doct0r_psycho
+- 👀 Keep visiting for exciting events.
 
 <!---
 doctorpsycho/doctorpsycho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
